@@ -1,36 +1,68 @@
 MyReads - A Bookshelf App
 "MyReads" is a React-based bookshelf app that allows users to organize their books into three categories: "Currently Reading," "Want to Read," and "Read." The app also includes a search page to discover and add new books to the bookshelves.
 
+
+
 Table of Contents
+
 Features
+
 Installation
+
 Usage
+
 Dependencies
+
 Contributing
-License
+
+
+
 Features
+
 Organize books into three shelves: "Currently Reading," "Want to Read," and "Read."
+
 Search for new books and add them to your shelves.
+
 Reflect changes made on the search page to the main bookshelves.
+
 Responsive design for a seamless experience on different devices.
+
 Installation
+
 Clone the repository to your local machine:
+
 bash
+
 Copy code
+
 git clone <repository-url>
+
 Navigate to the project directory:
+
 bash
+
 Copy code
+
 cd myreads-react-app
+
 Install the dependencies:
+
 bash
+
 Copy code
+
 npm install
+
 Usage
+
 Start the development server:
+
 bash
+
 Copy code
+
 npm start
+
 Open your web browser and go to http://localhost:3000/ to view the app.
 
 Explore the main bookshelves and use the "Add a book" link to search for new books.
