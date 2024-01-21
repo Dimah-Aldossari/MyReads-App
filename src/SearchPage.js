@@ -61,7 +61,7 @@ function SearchPage() {
                 <Link to="/" className="close-search">
                     Close
                 </Link>
-                <div className="search-books-input-wrapper">
+                <div >
                     <input
                         type="text"
                         placeholder="Search by title or author"
